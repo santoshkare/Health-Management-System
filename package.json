@@ -1,6 +1,8 @@
 {
-  "name": "healthcare-blockchain-dapp",
+  "name": "health-management-system",
   "version": "0.1.0",
+  "description": "Decentralized Healthcare Management System on Blockchain",
+  "author": "Santosh Kare <skare7475@gmail.com> (https://github.com/santoshkare)",
   "private": true,
   "scripts": {
     "dev": "next dev",

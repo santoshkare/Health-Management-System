@@ -1,102 +1,87 @@
-## TrustMed – Decentralized Healthcare Management System 🌐💊
+# Health Management System (TrustMed)
 
-TrustMed is a next-gen Web3 healthcare DApp that brings secure, transparent, and patient-friendly healthcare to the blockchain. Built on Ethereum and IPFS, it integrates doctors, patients, medicines, and AI assistance into a single decentralized platform.
+A next-generation Web3 healthcare DApp bringing secure, transparent, and patient-friendly healthcare management to the blockchain. Built with Ethereum, Hardhat, Next.js, and IPFS, it seamlessly integrates doctors, patients, medicine management, appointments, and AI assistance into a unified decentralized platform.
 
-#### 🔹 Key Features
+## 🚀 Key Features
 
-* **Admin Dashboard** – Mentor the system, verify doctors, manage medicines & appointments.
-* **Doctor Dashboard** – Track performance, manage consultations, prescribe digitally.
-* **Doctor Profiles** – Explore specialties, work history, and patient ratings.
-* **Secure Chat** – Real-time, blockchain-backed messaging between patients & doctors.
-* **AI Health Assistant** – Quick guidance for minor health issues, escalates complex cases.
-* **Decentralized Medicine Marketplace** – Buy authentic medicines securely with crypto payments.
-* **Patient-Friendly Functionalities** – Update health records, book appointments, receive prescriptions digitally.
+* **Admin Dashboard** — Manage and monitor the system, verify doctors, manage medicines, and oversee appointments.
+* **Doctor Dashboard** — Track performance, manage consultations, and prescribe digitally.
+* **Doctor Profiles** — Explore medical specialties, work history, availability, and patient ratings.
+* **Secure Messaging** — Real-time, blockchain-backed communication between patients & doctors.
+* **AI Health Assistant** — Instant guidance for minor health queries and triage assistance.
+* **Decentralized Medicine Marketplace** — Browse and order medicines securely with crypto transactions.
+* **Patient Portal** — Update health records, schedule appointments, and access digital prescriptions anytime.
 
-#### 🔹 Why TrustMed?
+## 🛡️ Architecture & Tech Stack
 
-* **Blockchain Security** – Tamper-proof, trustless operations via smart contracts.
-* **IPFS Storage** – Safe, decentralized storage for medical data & profiles.
-* **Seamless Payments** – Use MetaMask for hassle-free crypto transactions.
-* **Mobile-First** – Healthcare at your fingertips, anytime, anywhere.
+* **Smart Contracts & Blockchain:** Solidity, Hardhat, Ethereum / Holesky Testnet, Ethers.js
+* **Frontend:** Next.js (React 18), Web3Modal, React Icons
+* **Decentralized Storage:** IPFS (via Pinata)
+* **AI Assistance:** OpenAI API
 
-TrustMed isn’t just a healthcare platform—it’s a Web3 healthcare revolution. 🚀
+---
 
+## 📸 Project Overview
 
-## Project Overview
+![Project Overview](public/images/demo/pic1.png)
 
-![alt text](public/images/demo/pic1.png)
+---
 
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
+## 🛠️ Getting Started
 
-#### Install Vs Code Editor
+### Prerequisites
 
-```https://code.visualstudio.com/download
-  GET: VsCode Editor
-```
+- **Node.js**: v18.17.1 or higher
+- **NPM**: 8.19.2+
+- **MetaMask** browser extension installed
+- **Git**
 
-#### NodeJs & NPM Version
+### Installation
 
-```https://nodejs.org/en/download
-  NodeJs: v18.12.1
-  NPM: 8.19.2
-```
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/santoshkare/Health-Management-System.git
+   cd Health-Management-System
+   ```
 
-#### Pinata
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-```https://pinata.cloud
- GET PINATA API KEY
- GET PINATA SECRET KEY
-```
+3. **Configure Environment Variables:**
+   Copy `.env.example` to `.env.local` and configure your credentials:
+   ```bash
+   cp .env.example .env.local
+   ```
+   Add your OpenAI API key, Pinata credentials, and network configuration.
 
-All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
+4. **Compile Smart Contracts & Run Local Node:**
+   ```bash
+   npm run node
+   ```
 
-## Final Code Instruction
+5. **Deploy Smart Contracts:**
+   ```bash
+   # Deploy to local hardhat network
+   npm run deploy-local
 
-If you download the final source code then you can follow the following instructions to run the Dapp successfully
+   # Or deploy to Holesky testnet
+   npm run deploy
+   ```
 
+6. **Start the Frontend Development Server:**
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+---
 
-#### NodeJs & NPM Version
+## 📄 License
 
-```
-  NodeJs: v18.17.1 (MUST)
-  VIDEO: https://youtu.be/PIR0oBVowXU?si=_jVYKmd94tPjmuQR
-  NPM: 8.19.2
-  URL: https://nodejs.org/en/download
-```
+This project is licensed under the MIT License.
 
-#### RemixID
+## 👤 Author
 
-We are using RemixID for deploying the contract and generation of the ABI in the project, but you can use any other tools like Hardhat, etc.
-
-```https://remix-project.org
-  OPEN: RemixID
-```
-
-#### RPU URL PROVIDER
-
-```
-  NAME: ANKR.COM
-  URL: https://www.ankr.com/rpc/
-```
-
-#### OPEN AI
-
-```https://platform.openai.com/docs/api-reference/introduction
-  # OPEN AI KEY
-  URL: https://platform.openai.com/docs/api-reference/introduction
-  NEXT_PUBLIC_OPEN_AI_KEY=YOUR_OPEN_AI_KEY
-```
-
-#### Pinata IPFS
-
-```https://www.pinata.cloud/
-  # PINATE KEYS
-  URL: https://www.pinata.cloud/
-  NEXT_PUBLIC_PINATA_AIP_KEY = YOUR_PINATA_API_KEY
-  NEXT_PUBLIC_PINATA_SECRECT_KEY = YOUR_PINATA_SECRECT_KEY
-```
-
-## Authors
-
-- [Divyansh089](https://github.com/Divyansh089)
+- **Santosh Kare** — [GitHub Profile](https://github.com/santoshkare)

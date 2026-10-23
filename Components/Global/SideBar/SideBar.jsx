@@ -190,11 +190,14 @@ const SideBar = ({
         </div>
         <div className="copyright">
           <p className="fs-14 font-w200">
-            <strong className="font-w400">TrustMed Hospital Admin Dashboard</strong>©
-            2023 All Rights Reserved
+            <strong className="font-w400">Health Management System</strong> ©
+            2026 All Rights Reserved
           </p>
           <p className="fs-12">
-            Made  by <br />@Divyansh089
+            Made with ❤️ by <br />
+            <a href="https://github.com/santoshkare" target="_blank" rel="noreferrer" className="text-white">
+              Santosh Kare
+            </a>
           </p>
         </div>
       </div>

@@ -1,56 +1,56 @@
 [
   {
     "image": "images/avatar/1.jpg",
-    "name": "Daulat Hussain",
-    "date": "29 July 2020 - 02:26 PM",
-    "message": "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍"
+    "name": "Dr. Santosh Kare",
+    "date": "24 October 2026 - 10:30 AM",
+    "message": "Your health record and digital prescription have been verified on the blockchain."
   },
   {
     "image": "images/avatar/2.jpg",
-    "name": "Dr. Sing",
-    "date": "29 July 2020 - 02:26 PM",
-    "message": "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍"
+    "name": "Dr. Sarah Jenkins",
+    "date": "24 October 2026 - 09:15 AM",
+    "message": "Appointment confirmed. Please make sure your medical history is up to date."
   },
   {
     "image": "images/avatar/3.jpg",
-    "name": "MD. Arif Khan",
-    "date": "29 July 2020 - 02:26 PM",
-    "message": "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍"
+    "name": "Dr. Michael Chen",
+    "date": "23 October 2026 - 04:45 PM",
+    "message": "Prescription renewal request has been reviewed and approved on-chain."
   },
   {
     "image": "images/avatar/4.jpg",
-    "name": "MD Husssain",
-    "date": "29 July 2020 - 02:26 PM",
-    "message": "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍"
+    "name": "Dr. Emily Taylor",
+    "date": "23 October 2026 - 02:20 PM",
+    "message": "Lab test results are now securely available in your patient portal."
   },
   {
     "image": "images/avatar/5.jpg",
-    "name": "Medical Service",
-    "date": "29 July 2020 - 02:26 PM",
-    "message": "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍"
+    "name": "Medical Service Admin",
+    "date": "22 October 2026 - 11:00 AM",
+    "message": "System smart contract parameters updated successfully on the Holesky network."
   },
   {
     "image": "",
-    "name": "DR,Medical Service",
-    "date": "29 July 2020 - 02:26 PM",
-    "message": "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍"
+    "name": "Pharmacy Dispatch",
+    "date": "22 October 2026 - 08:30 AM",
+    "message": "Your medicine order has been verified and processed for delivery."
   },
   {
     "image": "",
-    "name": "DR. Medical",
-    "date": "29 July 2020 - 02:26 PM",
-    "message": "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍"
+    "name": "Emergency Healthcare Desk",
+    "date": "21 October 2026 - 05:00 PM",
+    "message": "24/7 AI triage assistant is active and ready to handle medical inquiries."
   },
   {
     "image": "",
-    "name": "Medical Service",
-    "date": "29 July 2020 - 02:26 PM",
-    "message": "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍"
+    "name": "TrustMed Support",
+    "date": "20 October 2026 - 01:15 PM",
+    "message": "Decentralized identity and wallet verification completed successfully."
   },
   {
     "image": "",
-    "name": "Hey Medical Service",
-    "date": "29 July 2020 - 02:26 PM",
-    "message": "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍"
+    "name": "Healthcare Network",
+    "date": "19 October 2026 - 10:00 AM",
+    "message": "Welcome to the Decentralized Health Management System."
   }
 ]

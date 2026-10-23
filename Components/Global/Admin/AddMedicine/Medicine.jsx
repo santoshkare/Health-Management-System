@@ -70,10 +70,10 @@ const Medicine = ({
       review: 2,
       quentity: 5,
       code: "0405689",
-      brand: "@theblockchaincoders",
+      brand: "HealthCare",
       disease: ["Fever", "Headache", "Energy"],
       description:
-        "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍",
+        "Certified medical pharmaceutical formulation verified and tracked on the blockchain.‍",
     },
     {
       name: "RadiantGlow Serum",
@@ -83,10 +83,10 @@ const Medicine = ({
       review: 2,
       quentity: 5,
       code: "0405689",
-      brand: "@theblockchaincoders",
+      brand: "HealthCare",
       disease: ["Fever", "Headache", "Energy"],
       description:
-        "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍",
+        "Certified medical pharmaceutical formulation verified and tracked on the blockchain.‍",
     },
     {
       name: "RadiantGlow Serum",
@@ -96,10 +96,10 @@ const Medicine = ({
       review: 2,
       quentity: 5,
       code: "0405689",
-      brand: "@theblockchaincoders",
+      brand: "HealthCare",
       disease: ["Fever", "Headache", "Energy"],
       description:
-        "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍",
+        "Certified medical pharmaceutical formulation verified and tracked on the blockchain.‍",
     },
     {
       name: "RadiantGlow Serum",
@@ -109,10 +109,10 @@ const Medicine = ({
       review: 2,
       quentity: 5,
       code: "0405689",
-      brand: "@theblockchaincoders",
+      brand: "HealthCare",
       disease: ["Fever", "Headache", "Energy"],
       description:
-        "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍",
+        "Certified medical pharmaceutical formulation verified and tracked on the blockchain.‍",
     },
     {
       name: "RadiantGlow Serum",
@@ -122,10 +122,10 @@ const Medicine = ({
       review: 2,
       quentity: 5,
       code: "0405689",
-      brand: "@theblockchaincoders",
+      brand: "HealthCare",
       disease: ["Fever", "Headache", "Energy"],
       description:
-        "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍",
+        "Certified medical pharmaceutical formulation verified and tracked on the blockchain.‍",
     },
     {
       name: "RadiantGlow Serum",
@@ -135,10 +135,10 @@ const Medicine = ({
       review: 2,
       quentity: 5,
       code: "0405689",
-      brand: "@theblockchaincoders",
+      brand: "HealthCare",
       disease: ["Fever", "Headache", "Energy"],
       description:
-        "The Blockchain Coders brings together organizations from across web3 to create the largest community learning blockchain education. ‍",
+        "Certified medical pharmaceutical formulation verified and tracked on the blockchain.‍",
     },
   ];
 
@@ -243,3 +243,4 @@ const Medicine = ({
 };
 
 export default Medicine;
+
