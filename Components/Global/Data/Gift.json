@@ -1,0 +1,30 @@
+
+ [
+  {
+    "title": "Healthy Heart Package ",
+    "message": "Complete Cardiac Checkup + ECG + Cholesterol Test\nIncludes Doctor Consultation & Diet Plan",
+    "price": "30% Off"
+  },
+  {
+    "title": "Women Wellness Plan ",
+    "message": "Gynecology Consultation + Hormonal Tests + Ultrasound Screening\nComprehensive 360° Women Health Care",
+    "price": "25% Off"
+  },
+  {
+    "title": "Diabetes Care Package ",
+    "message": "Blood Sugar Tests + Eye Checkup + Kidney Function Test\nPersonalized Doctor Guidance & Diet Chart",
+    "price": "35% Off"
+  },
+  {
+    "title": "Senior Citizen Health Plan ",
+    "message": "Full Body Checkup + Bone Density + Heart & Kidney Screening\nSpecial Geriatric Doctor Support",
+    "price": "40% Off"
+  },
+  {
+    "title": "Child Wellness Package ",
+    "message": "Pediatric Consultation + Vaccination Review + Nutrition Guidance\nFocused on Child Growth & Immunity",
+    "price": "20% Off"
+  }
+]
+
+
